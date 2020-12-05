@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Chatbot is a TensorFlow implementation of Seq2Seq Mode. It make use of a attention based seq2seq model RNN.
+This Chatbot is a TensorFlow implementation of Seq2Seq Mode. It makes use of an attention-based seq2seq RNN model.
 
 Encoder architecture: Stacked Bidirection LSTM with 400 nodes
 
