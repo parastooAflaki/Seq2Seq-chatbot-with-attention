@@ -9,7 +9,7 @@ Encoder architecture: Stacked Bidirection LSTM with 400 nodes
 Decoder architecture: LSTM with 400*2 nodes
 	
 ### Results :
-| Loss | Test Accuracy |
+| Train Accuracy | Test Accuracy |
 |:---:|:---:|
 | 83.72%  |  78.40%|
 
